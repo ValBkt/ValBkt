@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ValBkt
+- 🌱 I’m currently learning FRONT-END web dev
+- I have a passion for learning new things. I already know some of HTML and CSS, I need to continue with JS. 
